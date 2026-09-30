@@ -6,7 +6,7 @@ PORT = 3000;
 
 const cache = {};
 
-const pathToFile = path.join(__dirname, "db.json");
+const pathToFile = path.join(__dirname, "database/db.json");
 
 async function readFile() {
   try {
