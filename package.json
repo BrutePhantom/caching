@@ -15,5 +15,13 @@
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrutePhantom/caching.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrutePhantom/caching/issues"
+  },
+  "homepage": "https://github.com/BrutePhantom/caching#readme"
 }
